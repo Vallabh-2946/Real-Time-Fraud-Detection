@@ -4,3 +4,5 @@ __pycache__/
 data/creditcard.csv
 .ipynb_checkpoints/
 .streamlit/secrets.toml
+data/processed/
+models/*.pkl
