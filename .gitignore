@@ -6,3 +6,4 @@ data/creditcard.csv
 .streamlit/secrets.toml
 data/processed/
 models/*.pkl
+done
